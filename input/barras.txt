@@ -1,0 +1,1 @@
+// formato: "n:X.Y", n es nombre arista, X, Y son nodos ya creados

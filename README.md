@@ -58,3 +58,9 @@
 
 
 limitar el modelo a armaduras planas, barras articuladas, cargas estaticas y comportamiento axial lineal
+
+permitido: 
+- stdio.h
+- stdlib.h
+- math.h
+- string.h

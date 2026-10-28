@@ -1,0 +1,12 @@
+// formato: "N:x.y", N es nombre del nodo, x, y son las coordenadas en floats, en formato "1,0"
+A:0.0
+B:2,5.6
+C:5.0
+D:7,5.6
+E:10.0
+F:12,5.6
+G:15.0
+H:17,5.6
+I:20.0
+J:22,5.6
+K:25.0
